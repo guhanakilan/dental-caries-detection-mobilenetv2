@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Imaging
+opencv-python
+
+# Notebooks
+jupyterlab
